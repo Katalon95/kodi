@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 tvg-rec="0",SKY SPORTS F1 UK
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/7341/index.m3u8
+#EXTINF:0,SkySport F1 
+http://195.154.226.186:1935/livepp7/vskysf1lsh/playlist.m3u8 
 #EXTINF:-1,|PL| PPV FAMA MMA 15
 http://sansat.net:25461/02023656775421/RRLLT9YDZAPB04I/198683
 #EXTINF:-1,|PL| TVP HD
